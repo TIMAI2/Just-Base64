@@ -9,3 +9,5 @@ The extension will also take a base64 (of a string) and convert it to that strin
 
 
 ![Image](https://user-images.githubusercontent.com/29841236/214697434-a0c7fbad-831d-4872-8887-6f1c44834a46.png)
+
+Built using [RUSH](https://community.appinventor.mit.edu/t/rush-a-new-and-improved-way-of-building-extensions/28699)
